@@ -31,7 +31,7 @@ Languages: English (Fluent), Finnish (Intermediate), Italian (Intermediate)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| System audit                                  | <a href="https://github.com/kollyngr1/security-audit-project/tree/main">Security Audit project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -74,4 +74,4 @@ Languages: English (Fluent), Finnish (Intermediate), Italian (Intermediate)
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- Security Audit project
+- <a href="https://github.com/kollyngr1/security-audit-project/tree/main">Security Audit project</a>
